@@ -1,0 +1,3 @@
+/Users/jonathanprieto/Documents/GitHub/i-can-guess-the-data-structure-11995-jonathanprieto99/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jonathanprieto/Documents/GitHub/i-can-guess-the-data-structure-11995-jonathanprieto99/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jonathanprieto/Documents/GitHub/i-can-guess-the-data-structure-11995-jonathanprieto99/cmake-build-debug/CMakeFiles/i-can-guess-the-data-structure-11995-jonathanprieto99.dir
