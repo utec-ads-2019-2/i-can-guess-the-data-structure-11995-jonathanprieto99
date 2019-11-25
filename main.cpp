@@ -10,7 +10,7 @@ int main() {
     int ope=0;
     int x=0;
 
-    while (scanf("%d", &n) ==1) {
+    while (scanf("%d", &n) == 1) {
 
         stack<int> stack;
         queue<int> queu;
