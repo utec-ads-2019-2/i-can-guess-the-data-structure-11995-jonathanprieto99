@@ -47,7 +47,7 @@ int main() {
                     else{
                         stack.pop();
                     }
-                if (Queu)
+                if (Queu == true)
                     if (queu.empty() or queu.front() != x){
                         Queu = false;
                     }
